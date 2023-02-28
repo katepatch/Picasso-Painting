@@ -6,7 +6,7 @@ Project to showcase CSS skills by building a Picasso painting
 
 Deployed via Githup [Pages](katepatch.github.io/Picasso-Painting/)
 
-## Screenshot 
+## Screenshot
 
 ![screenshot](./assets/picasso.png)
 
